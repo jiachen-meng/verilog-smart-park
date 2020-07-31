@@ -1,5 +1,5 @@
 # verilog-smart-park
-This is the final project of Digital Systems Fall 2019 @ University of Toronto, Faculty of Applied Science & Engineering\
+This is the final project of Digital Systems Fall 2019 @ [University of Toronto](https://utoronto.ca), [Faculty of Applied Science & Engineering](https://engineering.utoronto.ca\
 This project is a fully-automated parking garage that can accommadate different types of cars in spots of different sizes\
 For details please read this [final report](https://docs.google.com/document/d/1_9TUqZiSR3SGROIPcH9C7mDq4DcEOtCi5JFBBVq4L_c/edit?usp=sharing)
 
